@@ -33,11 +33,11 @@ E-commerce platform for wholesale clothing using Medusa.js, PostgreSQL, and Reac
 ### [Custom Rendering Engine](https://github.com/drowningFi5h/pyGameEngine)
 Python-based perspective projection engine for 3D object rendering.
 
-### [Bus Tracking App](https://github.com/drowningFi5h/bus-tracking-app)
+### [Bus Tracking App](https://github.com/ZizouIsShort/FreshStart)
 Real-time bus tracking application using React and Google Maps API.
 
 ## 📫 Connect
 - LinkedIn: [Muhammad Tausif](https://www.linkedin.com/in/muhammad-tausif-632447288)
 - Email: [tausifansari1@gmail.com](mailto:tausifansari1@gmail.com)
 
-> 💡 "Code is not just code; it's the medium to bring ideas to life."
+> 💡 "When I'm not convincing rocks to process pixels into pretty pictures, I'm teaching them to sell clothes and track buses. One electricity zap at a time."
